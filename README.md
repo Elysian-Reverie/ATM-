@@ -15,7 +15,7 @@ This project generates an automated teller machine (ATM) that stores the user's 
 
 ### Dependencies
 
-This project requires Java 8 or a later version to run
+This project requires Java 8 or a later version to run.
 
 ### User Installation
 
